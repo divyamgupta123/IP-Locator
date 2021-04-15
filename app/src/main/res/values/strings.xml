@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IP locator</string>
+    <string name="enter_ip_address_here">Enter IP Address Here:- </string>
+    <string name="ip_address">IP Address</string>
+    <string name="get_your_ip_details">Get your IP details</string>
+
+    <string name="link_text">To Know More, Visit <a href="https://www.wpbeginner.com/glossary/ip-address/">Here</a></string>
+    <string name="device_information">Device Information</string>
+    <string name="what_is_ip_address">What is IP Address?</string>
+    <string name="ipv4_ipv6_address">IPv4/IPv6 Address</string>
+
+</resources>
